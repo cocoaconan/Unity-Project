@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Conan/Desktop/RPG-Clicker-S53-Ferris/Assets/Scenes/BattleScene.unity
+  isLoaded: 1
+  isActive: 1
